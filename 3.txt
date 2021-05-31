@@ -1,0 +1,5 @@
+1.API
+2.Web Application - Server,client,http request & methods,response codes
+3.ORM
+4.Apache webserver
+5.AJAX calls
